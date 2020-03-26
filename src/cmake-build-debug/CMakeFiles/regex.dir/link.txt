@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/regex.dir/main.c.o CMakeFiles/regex.dir/stateMachine/stateMachineBuilder.c.o CMakeFiles/regex.dir/stateMachine/stack/stack.c.o CMakeFiles/regex.dir/stateMachine/regex.c.o  -o regex 

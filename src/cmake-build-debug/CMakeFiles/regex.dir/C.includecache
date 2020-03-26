@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liam/CLionProjects/regex/main.c
+stateMachine/regex.h
+/home/liam/CLionProjects/regex/stateMachine/regex.h
+
+/home/liam/CLionProjects/regex/main.h
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/liam/CLionProjects/regex/stateMachine/regex.h
+../main.h
+/home/liam/CLionProjects/regex/main.h
+stateMachineBuilder.h
+/home/liam/CLionProjects/regex/stateMachine/stateMachineBuilder.h
+
+/home/liam/CLionProjects/regex/stateMachine/stack/stack.h
+../../main.h
+/home/liam/CLionProjects/regex/main.h
+
+/home/liam/CLionProjects/regex/stateMachine/state/state.h
+../../main.h
+/home/liam/CLionProjects/regex/main.h
+../stack/stack.h
+/home/liam/CLionProjects/regex/stateMachine/stack/stack.h
+
+/home/liam/CLionProjects/regex/stateMachine/stateMachineBuilder.h
+state/state.h
+/home/liam/CLionProjects/regex/stateMachine/state/state.h
+stack/stack.h
+/home/liam/CLionProjects/regex/stateMachine/stack/stack.h
+../main.h
+/home/liam/CLionProjects/regex/main.h
+
