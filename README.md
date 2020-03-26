@@ -8,3 +8,5 @@ It uses an exponential time algorithm to actually traverse
 the finite state machine representing the regex expression.
 
 linear time ones do exist I may implement it later.
+
+I will make a makefile if anyone wants one.
